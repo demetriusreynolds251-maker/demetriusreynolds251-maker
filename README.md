@@ -7,6 +7,8 @@ I like meeting new people and helping with projects: operations problems, proces
 
 **[Connect with me on LinkedIn →](https://www.linkedin.com/in/demetrius-reynolds-655293421/)** That's the best place to reach me.
 
+🌐 **[About me →](https://demetriusreynolds251-maker.github.io)**
+
 ### 🧪 What I'm building: Apex
 Apex is a sports analytics system that runs around the clock. It collects data, prices outcomes with a probability model, posts ranked boards to Discord, and grades every result so the numbers stay honest.
 
