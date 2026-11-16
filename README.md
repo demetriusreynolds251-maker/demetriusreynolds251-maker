@@ -1,3 +1,6 @@
+<p align="center"><a href="https://demetriusreynolds251-maker.github.io"><img src="https://demetriusreynolds251-maker.github.io/github/og.png?v=2" alt="Three things I built with AI: Apex Intelligence™, Career Hunt and StockScout" width="100%"></a></p>
+<p align="center"><a href="https://demetriusreynolds251-maker.github.io"><b>▶ About me</b></a></p>
+
 ## Hi, I'm Demetrius 👋
 
 **Operations & business leader in Mobile, Alabama.** I've spent 10+ years running teams, inventory, vendors and schedules. These days I lead operations at a logistics company, and in my spare time I build data tools with AI.
