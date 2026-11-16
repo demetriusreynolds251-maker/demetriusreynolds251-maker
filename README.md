@@ -12,16 +12,14 @@ Apex is a sports analytics system that runs around the clock. It collects data, 
 
 ▶ **[Take the interactive tour](https://demetriusreynolds251-maker.github.io/apex/)**
 
-**Code:** [one repo](https://github.com/demetriusreynolds251-maker/apex) with four parts:
-
-| Folder | What it is |
+| Repo | What it is |
 |---|---|
-| [tennis/](https://github.com/demetriusreynolds251-maker/apex/tree/main/tennis) | The live system: scheduler, model, boards, grading, Discord bot, dashboard |
-| [multisport/](https://github.com/demetriusreynolds251-maker/apex/tree/main/multisport) | The same approach for NFL, NHL, soccer, college sports and more |
-| [research/](https://github.com/demetriusreynolds251-maker/apex/tree/main/research) | Backtests and audits behind every rule |
-| [warehouse/](https://github.com/demetriusreynolds251-maker/apex/tree/main/warehouse) | Daily collector for the tennis stats database |
+| [apex-tennis](https://github.com/demetriusreynolds251-maker/apex-tennis) | The live system: scheduler, model, boards, grading, Discord bot, dashboard |
+| [apex-multisport](https://github.com/demetriusreynolds251-maker/apex-multisport) | The same approach for NFL, NHL, soccer, college sports and more |
+| [apex-tennis-research](https://github.com/demetriusreynolds251-maker/apex-tennis-research) | Backtests and audits behind every rule |
+| [apex-tennis-warehouse](https://github.com/demetriusreynolds251-maker/apex-tennis-warehouse) | Daily collector for the tennis stats database |
 
-Using Apex? Share what you find. Details are in the [LICENSE](https://github.com/demetriusreynolds251-maker/apex/blob/main/LICENSE).
+Using Apex? Share what you find. Details are in each repo's LICENSE.
 
 ### 🛠️ How I work
 Test it before trusting it, measure everything, make every change reversible, and keep the people doing the work in the loop. Those rules come straight from running operations.
