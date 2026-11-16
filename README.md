@@ -5,7 +5,7 @@
 ### 🤝 Let's connect
 I like meeting new people and helping with projects: operations problems, process clean-ups, spreadsheets that should be systems, or a side project that needs another set of eyes.
 
-**[Connect with me on LinkedIn →](https://www.linkedin.com/in/demetrius-reynolds-655293421/)** That's the best place to reach me.
+**[Connect with me on LinkedIn →](https://www.linkedin.com/in/demetrius-reynolds/)** That's the best place to reach me.
 
 🌐 **[About me →](https://demetriusreynolds251-maker.github.io)**
 
