@@ -9,8 +9,10 @@ I like meeting new people and helping with projects: operations problems, proces
 
 🌐 **[About me →](https://demetriusreynolds251-maker.github.io)**
 
-### 🧪 What I'm building: Apex
-Apex is a sports analytics system that runs around the clock. It collects data, prices outcomes with a probability model, posts ranked boards to Discord, and grades every result so the numbers stay honest.
+### 🧪 What I'm building: Project Apex Intelligence™
+*"Structured Truth Over Assumptions."*
+
+Apex Intelligence™ is a sports analytics system that runs around the clock. It collects data, prices outcomes with a probability model, posts ranked boards to Discord, and grades every result so the numbers stay honest.
 
 ▶ **[Take the interactive tour](https://demetriusreynolds251-maker.github.io/apex/)**
 
@@ -21,7 +23,7 @@ Apex is a sports analytics system that runs around the clock. It collects data, 
 | [apex-tennis-research](https://github.com/demetriusreynolds251-maker/apex-tennis-research) | Backtests and audits behind every rule |
 | [apex-tennis-warehouse](https://github.com/demetriusreynolds251-maker/apex-tennis-warehouse) | Daily collector for the tennis stats database |
 
-Using Apex? Share what you find. Details are in each repo's LICENSE.
+Using Apex Intelligence? Share what you find. Details are in each repo's LICENSE.
 
 ### 🎯 Also building: Career Hunt
 A Discord command center for job hunting and genuine networking. It drafts LinkedIn posts with images, turns new connections and messages into suggested replies, and reminds me to follow up. Nothing is sent until I approve it.
@@ -37,4 +39,4 @@ Test it before trusting it, measure everything, make every change reversible, an
 **Tools:** Excel · SAP · Python · SQLite · Discord bots · AI coding assistants
 
 ---
-*I designed and directed Apex and built it with AI coding assistants. I understand the code and how it fits together, but I'm not a professional software engineer.*
+*I designed and directed Apex Intelligence™ and built it with AI coding assistants. I understand the code and how it fits together, but I'm not a professional software engineer.*
