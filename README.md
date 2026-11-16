@@ -1,18 +1,16 @@
-### Hi, I'm Demetrius 👋
+## Hi, I'm Demetrius 👋
 
-I like turning messy, real-world questions into systems that answer them every day, and then checking whether the answers were actually right.
+**Operations & business leader in Mobile, Alabama.** I've spent 10+ years running teams, inventory, vendors and schedules. These days I lead operations at a logistics company, and in my spare time I build data tools with AI.
 
-My main project is **Apex**, a sports prop-pricing system that runs around the clock on my Mac. It collects lines and stats, prices each prop with a probability model, checks it against sportsbook prices, posts ranked boards to Discord, and grades every pick against the real result.
+### 🤝 Let's connect
+I like meeting new people and helping with projects: operations problems, process clean-ups, spreadsheets that should be systems, or a side project that needs another set of eyes.
 
-**[▶ See how Apex works](https://demetriusreynolds251-maker.github.io/apex/)**: an interactive one-page tour.
+**[Connect with me on LinkedIn →](https://www.linkedin.com/in/demetrius-reynolds-655293421/)** That's the best place to reach me.
 
-```
- data feeds ─▶ warehouse ─▶ model ─▶ book check
-                                         │
-   grading ◀── discord ◀── boards ◀── rules & rank
-      │
-      └── real results feed back into "honest" probabilities
-```
+### 🧪 What I'm building: Apex
+Apex is a sports analytics system that runs around the clock. It collects data, prices outcomes with a probability model, posts ranked boards to Discord, and grades every result so the numbers stay honest.
+
+▶ **[Take the interactive tour](https://demetriusreynolds251-maker.github.io/apex/)**
 
 | Repo | What it is |
 |---|---|
@@ -21,8 +19,12 @@ My main project is **Apex**, a sports prop-pricing system that runs around the c
 | [apex-tennis-research](https://github.com/demetriusreynolds251-maker/apex-tennis-research) | Backtests and audits behind every rule |
 | [apex-tennis-warehouse](https://github.com/demetriusreynolds251-maker/apex-tennis-warehouse) | Daily collector for the tennis stats database |
 
-**What I care about when I build:** test it against history before trusting it, grade everything, make every change reversible, and alert only when something actually changes.
+Using Apex? Share what you find. Details are in each repo's LICENSE.
 
-**Tools:** Python · SQLite · pandas · scikit-learn · XGBoost · Discord bots · REST APIs · macOS launchd · Git
+### 🛠️ How I work
+Test it before trusting it, measure everything, make every change reversible, and keep the people doing the work in the loop. Those rules come straight from running operations.
 
-<sub>Apex was designed and directed by me and built with AI coding assistants. I understand the code and architecture but am not a professional software engineer.</sub>
+**Tools:** Excel · SAP · Python · SQLite · Discord bots · AI coding assistants
+
+---
+*I designed and directed Apex and built it with AI coding assistants. I understand the code and how it fits together, but I'm not a professional software engineer.*
