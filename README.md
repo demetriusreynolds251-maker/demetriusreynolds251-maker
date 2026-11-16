@@ -23,6 +23,10 @@ Apex is a sports analytics system that runs around the clock. It collects data, 
 
 Using Apex? Share what you find. Details are in each repo's LICENSE.
 
+### 🎯 Also building: Career Hunt
+A Discord command center for job hunting and genuine networking. It drafts LinkedIn posts with images, turns new connections and messages into suggested replies, and reminds me to follow up. Nothing is sent until I approve it.
+→ **[career-hunt](https://github.com/demetriusreynolds251-maker/career-hunt)**
+
 ### 🛠️ How I work
 Test it before trusting it, measure everything, make every change reversible, and keep the people doing the work in the loop. Those rules come straight from running operations.
 
