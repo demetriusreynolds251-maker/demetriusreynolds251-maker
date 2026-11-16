@@ -27,6 +27,10 @@ Using Apex? Share what you find. Details are in each repo's LICENSE.
 A Discord command center for job hunting and genuine networking. It drafts LinkedIn posts with images, turns new connections and messages into suggested replies, and reminds me to follow up. Nothing is sent until I approve it.
 → **[career-hunt](https://github.com/demetriusreynolds251-maker/career-hunt)**
 
+### 📈 And: StockScout
+A research bot that explains stocks in plain English: daily briefs, earnings alerts, AI news reads and supplier hunting in SEC filings. A learning tool, not financial advice.
+→ **[stockscout](https://github.com/demetriusreynolds251-maker/stockscout)**
+
 ### 🛠️ How I work
 Test it before trusting it, measure everything, make every change reversible, and keep the people doing the work in the loop. Those rules come straight from running operations.
 
